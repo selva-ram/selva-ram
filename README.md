@@ -15,11 +15,11 @@
 
 I'm a Computer Science and Engineering undergraduate at **Sathyabama Institute of Science and Technology, Chennai** (Class of 2027). I build practical software across local AI, semantic search, machine learning, and full-stack web applications—with a focus on turning ideas into usable products.
 
-- 🧠 Building privacy-first AI workflows, semantic search, and retrieval systems
-- 🚀 Built and published a full-stack ATS resume optimization SaaS product
-- 🤖 Interested in machine learning, computer vision, document intelligence, and applied AI
-- 🔐 Exploring secure authentication and applied cryptography
-- 📚 NPTEL certifications in Information Retrieval, Machine Learning, and Java
+- Building privacy-first AI workflows, semantic search, and retrieval systems
+- Built and published a full-stack ATS resume optimization SaaS product
+- Interested in machine learning, computer vision, document intelligence, and applied AI
+- Exploring secure authentication and applied cryptography
+- NPTEL certifications in Information Retrieval, Machine Learning, and Java
 
 ## Featured Projects
 
